@@ -483,7 +483,7 @@ export const projects: Project[] = [
     links: [
       {
         label: "GitHub",
-        href: "https://github.com/thiri-kyaw-khaing/admin-dashboard",
+        href: "https://github.com/channyein-thu/training-plan-Doi-Tung",
         icon: "github",
       },
       {
@@ -503,7 +503,7 @@ export const projects: Project[] = [
     links: [
       {
         label: "GitHub",
-        href: "https://github.com/thiri-kyaw-khaing/course-professor-review-hub",
+        href: "https://github.com/channyein-thu/Rate-wise",
         icon: "github",
       },
       {
